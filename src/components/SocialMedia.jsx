@@ -8,17 +8,17 @@ function SocialMedia(props) {
     return (
         <div className={"app__social"}>
             <div>
-                <a href="https://www.instagram.com/gorkemglr59/">
+                <a href="https://www.instagram.com/berkaygulsen/">
                     <BsInstagram/>
                 </a>
             </div>
             <div>
-                <a  href="https://www.linkedin.com/in/g%C3%B6rkem-g%C3%BCler-ab3a951b0/">
+                <a  href="https://www.linkedin.com/in/berkaygulsen/">
                     <ImLinkedin2/>
                 </a>
             </div>
             <div>
-                <a  href="https://github.com/gorkemguler96">
+                <a  href="https://github.com/berkaygulsen">
                     <SiGithub/>
                 </a>
             </div>

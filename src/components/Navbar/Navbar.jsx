@@ -10,7 +10,7 @@ function Navbar(props) {
     return (
         <nav className={"app__navbar"}>
             <div className={"app__navbar-logo"}>
-                <h1>Görkem GÜLER</h1>
+                <h1>Berkay Gülşen</h1>
             </div>
             <ul className={"app__navbar-links"}>
                 {['home','about','work','skills','contact'].map((item)=>(

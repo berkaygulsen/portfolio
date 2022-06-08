@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.scss'
-import profile from '../../assests/son.png'
+import profile from '../../assests/berkay.png'
 import circle from '../../assests/circle.svg'
 import redux from '../../assests/redux.png'
 import react from '../../assests/react.png'
@@ -32,14 +32,14 @@ function Header(props) {
                     <div className="badge-cmp ap__flex">
                         <span>👋</span>
                         <div style={{marginLeft:20}}>
-                            <p className={"p-text"}>Hello, I am </p>
-                            <h1 className={"head-text"}>Görkem</h1>
+                            <p className={"p-text"}>Hey there, I'm </p>
+                            <h1 className={"head-text"}>Berkay</h1>
                         </div>
                     </div>
 
                     <div className={"tag-cmp app__flex"}>
                         <p className="p-text">Frontend Developer</p>
-                        <p className="p-text">Freelancer</p>
+                        <p className="p-text">UI / UX Designer</p>
                     </div>
                 </div>
             </motion.div>

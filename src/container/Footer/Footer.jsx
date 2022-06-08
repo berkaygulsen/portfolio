@@ -40,16 +40,16 @@ function Footer(props) {
             <h2 className={"head-text"}>Take a coffe & chat with me</h2>
 
             <div className={"app__footer-cards"}>
-                <a href="mailto:gorkemguler1996@gmail.com">
+                <a href="mailto:berkaygulsen@gmail.com">
                 <div className={"app__footer-card"}>
                     <img src={emaill} alt="email"/>
-                    <span className={"p-text"}>gorkemguler1996@gmail.com</span>
+                    <span className={"p-text"}>berkaygulsen@gmail.com</span>
                 </div>
                 </a>
-                <a href="tel:+905344035243">
+                <a href="tel:+905383894352">
                 <div className={"app__footer-card"}>
                     <img src={mobile} alt="mobile"/>
-                    <span className={"p-text"}>+90 (534) 403 52-43</span>
+                    <span className={"p-text"}>+90 (538) 389 43 52</span>
                 </div>
                 </a>
             </div>
